@@ -1,0 +1,13 @@
+pandas
+numpy
+networkx
+python-louvain
+python-igraph
+leidenalg
+matplotlib
+seaborn
+graphviz
+plotly
+scikit-learn
+tqdm
+pyyaml

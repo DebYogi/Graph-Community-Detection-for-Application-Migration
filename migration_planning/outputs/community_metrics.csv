@@ -1,0 +1,3 @@
+algorithm,num_communities,modularity,runtime_seconds
+louvain,14,0.4093967536069671,
+leiden,10,0.448518078943781,

@@ -1,0 +1,17 @@
+algorithm,env,wave_index,num_apps
+louvain,nonprod,0,38
+louvain,nonprod,1,38
+louvain,nonprod,2,38
+louvain,nonprod,3,38
+louvain,nonprod,4,37
+louvain,nonprod,5,37
+louvain,nonprod,6,37
+louvain,nonprod,7,37
+louvain,prod,0,38
+louvain,prod,1,38
+louvain,prod,2,38
+louvain,prod,3,38
+louvain,prod,4,37
+louvain,prod,5,37
+louvain,prod,6,37
+louvain,prod,7,37

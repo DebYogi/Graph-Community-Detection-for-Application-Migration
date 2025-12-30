@@ -1,0 +1,17 @@
+algorithm,env,wave_index,num_apps
+leiden,nonprod,0,38
+leiden,nonprod,1,38
+leiden,nonprod,2,38
+leiden,nonprod,3,38
+leiden,nonprod,4,37
+leiden,nonprod,5,37
+leiden,nonprod,6,37
+leiden,nonprod,7,37
+leiden,prod,0,38
+leiden,prod,1,38
+leiden,prod,2,38
+leiden,prod,3,38
+leiden,prod,4,37
+leiden,prod,5,37
+leiden,prod,6,37
+leiden,prod,7,37

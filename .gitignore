@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# IPython / Jupyter
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Outputs and artifacts
+#migration_planning/outputs/
+#outputs/
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+
+# Misc
+*.log
+
+.qodo/

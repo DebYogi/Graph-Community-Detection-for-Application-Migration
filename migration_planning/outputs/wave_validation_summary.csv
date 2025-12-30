@@ -1,0 +1,3 @@
+algorithm,num_waves_nonprod,num_waves_prod,issues_found
+louvain,8,8,666
+leiden,8,8,666
